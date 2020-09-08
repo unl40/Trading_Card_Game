@@ -1,6 +1,5 @@
-/****************
-TRADING CARD GAME
-****************/
+# TRADING CARD GAME
+
 
 ## Info about running the application
 
