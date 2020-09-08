@@ -3,7 +3,10 @@
 
 ## Info about running the application
 
-1) To execute the application, the maven configurations on the image mvnConfig.jpg can be used.(commandLine value on the image: clean install exec:java -Dexec.mainClass=App)
+1) To execute the application, the maven configurations on the image can be used:
+![maven_config](/mavenConfig.jpg)
+
+(commandLine value on the image: clean install exec:java -Dexec.mainClass=App)
 
 2) Step 1 performs maven clean install then executes main method in class App.
 
