@@ -19,8 +19,8 @@ public class GameControllerImpl implements GameController {
     }
 
     private void init() {
-        playerOne.setName("R2-D2");
-        playerTwo.setName("C-3PO");
+        playerOne.setName("Player1");
+        playerTwo.setName("Player2");
         playerOne.setYourTurn(true);
         playerOne.setOpponent(playerTwo);
         playerTwo.setOpponent(playerOne);
